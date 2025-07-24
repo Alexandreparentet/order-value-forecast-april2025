@@ -40,3 +40,5 @@ Antecipar o valor total de pedidos feitos por empresas com um mês de antecedên
    - Geração de previsões e comparação com valores reais
 
 ## 📈 Resultado Final
+
+📌 Projeto desenvolvido com a colaboração do Professor da Unichristus: **Pedro Bandeira** na etapa de imersão do Programa Residência em TIC-20 - Capacita Brasil/C-Jovem como parte de portfólio em Ciência de Dados com foco em previsão temporal de valores baseada em dados históricos de compras mensais e características associadas.
